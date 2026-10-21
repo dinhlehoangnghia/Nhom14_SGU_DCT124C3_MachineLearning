@@ -14,4 +14,4 @@
 ## Hướng dẫn cài đặt & chạy ứng dụng (Cập nhật sau):
 1. Clone repository:
 ```bash
-   git clone [https://github.com/](https://github.com/)dinhlehoangnghia/Nhom14_SGU_DCT124C3_MachineLearning.git
+   git clone https://github.com/dinhlehoangnghia/Nhom14_SGU_DCT124C3_MachineLearning.git
